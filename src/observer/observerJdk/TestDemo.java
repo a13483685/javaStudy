@@ -1,4 +1,4 @@
-package observer;
+package observer.observerJdk;
 
 public class TestDemo {
     public static void main(String args[]){
