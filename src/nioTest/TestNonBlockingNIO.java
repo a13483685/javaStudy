@@ -9,9 +9,7 @@ import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
 import java.nio.channels.ServerSocketChannel;
 import java.nio.channels.SocketChannel;
-import java.util.Date;
-import java.util.Iterator;
-import java.util.Scanner;
+import java.util.*;
 
 import static nioTest.TestNonBlockingNIO.server;
 
@@ -148,8 +146,14 @@ class MyThread extends Thread{
 static class ReadThread implements Runnable{
 	SelectionKey sk = null;
 	Selector selector = null;
+	List<ObserverData> observers = new ArrayList<>();
+
+
+	ObserverDataOne observerDataOne = null;
 	public ReadThread(SelectionKey sk){
 		this.sk = sk;
+		observerDataOne= new ObserverDataOne();
+		observers.add(observerDataOne);
 	}
 	@Override
 	public void run() {
@@ -163,7 +167,11 @@ static class ReadThread implements Runnable{
 			int len = 0;
 			while((len = sChannel.read(buf)) > 0 ){
 				buf.flip();
-				System.out.println(new String(buf.array(), 0, len));
+				String s = new String(buf.array(), 0, len);
+				System.out.println(s);
+				for (ObserverData observerData:observers){
+					observerData.update(s);
+				}
 				buf.clear();
 			}
 

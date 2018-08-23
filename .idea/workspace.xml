@@ -2,17 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="312fc01d-6eb6-4f84-9de7-0eecd58d70f2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/java/GF1Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/java/GF2Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/java/GF3Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/java/observerJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/java/subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/netty_3_10_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/netty_all_5_0_0_Alpha2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatRoomDemo/client/ChatFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatRoomDemo/client/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatRoomDemo/client/SetNameFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatRoomDemo/server/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/TestCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/TestIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/TestList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogTest/LogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serial/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serial/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encryption/MD5/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/logback-access-1.2.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/logback-access-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/logback-classic-1.2.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/logback-classic-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/logback-core-1.2.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/logback-core-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/netty-all-5.0.0.Alpha2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/netty-all-5.0.0.Alpha2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/slf4j-api-1.7.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nettyStudy/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nettyStudy/client/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nettyStudy/client/MultClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nettyStudy/client/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nettyStudy/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nettyStudy/server/ServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nioTest/ObserverData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nioTest/ObserverDataOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swing/Jtree/Chooser/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swing/Jtree/Trees.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nioTest/server/AcceptHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nioTest/server/AcceptHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/MyObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/observerJdk/MyObservable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/MyObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/observerJdk/MyObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/observerJdk/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaDemeAll.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaDemeAll.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,20 +53,111 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/javaObserve$ChatServer.ic" NAME="ChatServer Coverage Results" MODIFIED="1533541854452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ChatRoomDemo.server.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestNonBlockingNIO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java">
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nettyStudy/server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1723">
-              <caret line="129" column="17" lean-forward="true" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+            <state relative-caret-position="594">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2694#2953#0" expanded="true" />
-                <element signature="e#2952#2953#0" expanded="true" />
-                <element signature="e#3261#3262#0" expanded="true" />
-                <element signature="e#3280#3281#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LogTest/LogTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MD5Util.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/encryption/MD5/MD5Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3456">
+              <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Serial/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Serial/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/swing/Jtree/Chooser/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1107">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JFileChooser.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JFileChooser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2835">
+              <caret line="153" column="28" selection-start-line="153" selection-start-column="28" selection-end-line="153" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Logger.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/src/lib/logback-classic-1.2.1-sources.jar!/ch/qos/logback/classic/Logger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nettyStudy/server/ServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -52,6 +174,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>setText</find>
+      <find>child</find>
+      <find>ChatFrame</find>
+      <find>199</find>
+      <find>STDOUT</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -60,18 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MyObservable.java" />
-        <option value="$PROJECT_DIR$/src/TestDemo.java" />
-        <option value="$PROJECT_DIR$/src/MyObserver.java" />
-        <option value="$PROJECT_DIR$/src/observer/MyObserver.java" />
-        <option value="$PROJECT_DIR$/src/thread/TheadDemo.java" />
-        <option value="$PROJECT_DIR$/src/thread/TheadDemo1.java" />
-        <option value="$PROJECT_DIR$/src/thread/TicketDemo.java" />
-        <option value="$PROJECT_DIR$/src/thread/TicketRunnable.java" />
-        <option value="$PROJECT_DIR$/src/thread/ticket/NOTE.TXT" />
-        <option value="$PROJECT_DIR$/src/DesignPattern/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/thread/ThreadDeadLock.java" />
-        <option value="$PROJECT_DIR$/src/net/javaip.java" />
         <option value="$PROJECT_DIR$/src/RxJava2/RxJavaTest.java" />
         <option value="$PROJECT_DIR$/src/thread/ticket/TicketRunnable.java" />
         <option value="$PROJECT_DIR$/src/timer/TimerTest.java" />
@@ -92,7 +206,6 @@
         <option value="$PROJECT_DIR$/src/nioTest/Test.java" />
         <option value="$PROJECT_DIR$/src/nioTest/server/AcceptHandler.java" />
         <option value="$PROJECT_DIR$/src/nioTest/server/ReadHandler.java" />
-        <option value="$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java" />
         <option value="$PROJECT_DIR$/src/observerJdk/MyObservable.java" />
         <option value="$PROJECT_DIR$/src/observer/observerJdk/MyObservable.java" />
         <option value="$PROJECT_DIR$/src/observer/java/observerJava.java" />
@@ -100,6 +213,30 @@
         <option value="$PROJECT_DIR$/src/observer/java/GF2Observer.java" />
         <option value="$PROJECT_DIR$/src/observer/java/GF3Observer.java" />
         <option value="$PROJECT_DIR$/src/observer/java/subject.java" />
+        <option value="$PROJECT_DIR$/src/nioTest/ObserverData.java" />
+        <option value="$PROJECT_DIR$/src/nioTest/server/SubjectData.java" />
+        <option value="$PROJECT_DIR$/src/nioTest/server/ObserverDataOne.java" />
+        <option value="$PROJECT_DIR$/src/nioTest/ObserverDataOne.java" />
+        <option value="$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java" />
+        <option value="$PROJECT_DIR$/src/swing/Jtree/Branch.java" />
+        <option value="$PROJECT_DIR$/src/Collection/TestIterator.java" />
+        <option value="$PROJECT_DIR$/src/Collection/TestCollection.java" />
+        <option value="$PROJECT_DIR$/src/Collection/TestList.java" />
+        <option value="$PROJECT_DIR$/src/swing/Jtree/Trees.java" />
+        <option value="$PROJECT_DIR$/src/ChatRoomDemo/server/ChatServer.java" />
+        <option value="$PROJECT_DIR$/src/ChatRoomDemo/client/ClientService.java" />
+        <option value="$PROJECT_DIR$/src/nettyStudy/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/NIOTest2/Server/HelloHandler.java" />
+        <option value="$PROJECT_DIR$/src/NIOTest2/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/LogTest/LogTest.java" />
+        <option value="$PROJECT_DIR$/src/logback/xml.java" />
+        <option value="$PROJECT_DIR$/src/logback/logback.java" />
+        <option value="$PROJECT_DIR$/src/logback.xml" />
+        <option value="$PROJECT_DIR$/src/swing/Jtree/Chooser/demo.java" />
+        <option value="$PROJECT_DIR$/src/swing/Jtree/Chooser/Test.java" />
+        <option value="$PROJECT_DIR$/src/Utils/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/encryption/MD5/MD5Util.java" />
+        <option value="$PROJECT_DIR$/src/Serial/README.txt" />
       </list>
     </option>
   </component>
@@ -109,11 +246,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-233" />
+    <option name="y" value="335" />
+    <option name="width" value="1934" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -121,6 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -132,6 +270,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,48 +287,12 @@
               <item name="javaObserve" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaObserve" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nioTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaObserve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaObserve" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nioTest" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaObserve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaObserve" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nioTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TestNonBlockingNIO.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="javaObserve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaObserve" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaObserve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaObserve" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaObserve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaObserve" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-              <item name="observerJdk" type="462c0819:PsiDirectoryNode" />
+              <item name="Serial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,9 +306,11 @@
       <recent name="thread" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\java\javaObserve\src\nioTest" />
       <recent name="F:\work\java\javaObserve\src\lib" />
-      <recent name="F:\work\java\javaObserve\src\libs" />
+      <recent name="F:\work\java\javaObserve\src\nettyStudy" />
+      <recent name="F:\work\java\javaObserve\src\ChatRoomDemo" />
+      <recent name="F:\work\java\javaObserve\src\NIOTest2\Server" />
+      <recent name="F:\work\java\javaObserve\src\Collection" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,14 +325,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestNonBlockingNIO">
-    <configuration name="TestNonBlockingNIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nioTest.TestNonBlockingNIO" />
+  <component name="RunManager" selected="JUnit.MD5Util.testEncoding">
+    <configuration name="LogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogTest.LogTest" />
       <module name="javaDemeAll" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nioTest.*" />
+          <option name="PATTERN" value="LogTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nettyStudy.server.Server" />
+      <module name="javaDemeAll" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nettyStudy.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swing.Jtree.Chooser.Test" />
+      <module name="javaDemeAll" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swing.Jtree.Chooser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,53 +362,19 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="subject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="observer.java.subject" />
-      <module name="javaDemeAll" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="observer.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestNonBlockingNIO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MD5Util.testEncoding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaDemeAll" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nioTest.*" />
+          <option name="PATTERN" value="encryption.MD5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="nioTest" />
-      <option name="MAIN_CLASS_NAME" value="nioTest.TestNonBlockingNIO" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestNonBlockingNIO.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaDemeAll" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nioTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="nioTest" />
-      <option name="MAIN_CLASS_NAME" value="nioTest.TestNonBlockingNIO" />
-      <option name="METHOD_NAME" value="client" />
+      <option name="PACKAGE_NAME" value="encryption.MD5" />
+      <option name="MAIN_CLASS_NAME" value="encryption.MD5.MD5Util" />
+      <option name="METHOD_NAME" value="testEncoding" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -292,19 +385,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestNonBlockingNIO.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MD5Util.testMD5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaDemeAll" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nioTest.*" />
+          <option name="PATTERN" value="encryption.MD5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="nioTest" />
-      <option name="MAIN_CLASS_NAME" value="nioTest.TestNonBlockingNIO" />
-      <option name="METHOD_NAME" value="server" />
+      <option name="PACKAGE_NAME" value="encryption.MD5" />
+      <option name="MAIN_CLASS_NAME" value="encryption.MD5.MD5Util" />
+      <option name="METHOD_NAME" value="testMD5" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -354,19 +447,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestNonBlockingNIO.server" />
-      <item itemvalue="JUnit.TestNonBlockingNIO.client" />
-      <item itemvalue="Application.TestNonBlockingNIO" />
-      <item itemvalue="JUnit.TestNonBlockingNIO" />
-      <item itemvalue="Application.subject" />
+      <item itemvalue="Application.Server (1)" />
+      <item itemvalue="Application.LogTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JUnit.MD5Util.testMD5" />
+      <item itemvalue="JUnit.MD5Util.testEncoding" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestNonBlockingNIO" />
-        <item itemvalue="Application.subject" />
-        <item itemvalue="JUnit.TestNonBlockingNIO" />
-        <item itemvalue="JUnit.TestNonBlockingNIO.server" />
-        <item itemvalue="JUnit.TestNonBlockingNIO.client" />
+        <item itemvalue="JUnit.MD5Util.testEncoding" />
+        <item itemvalue="JUnit.MD5Util.testMD5" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.LogTest" />
+        <item itemvalue="Application.Server (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -384,15 +477,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestNonBlockingNIO_server - 2018.07.24 at 17h 54m 32s.xml">
-      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_server - 2018.07.24 at 17h 54m 53s.xml">
-      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestNonBlockingNIO_server - 2018.07.24 at 17h 55m 17s.xml">
-      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestNonBlockingNIO_server - 2018.07.24 at 17h 55m 22s.xml">
       <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
     </history-entry>
@@ -414,6 +498,15 @@
     <history-entry file="TestNonBlockingNIO - 2018.07.24 at 18h 02m 04s.xml">
       <configuration name="TestNonBlockingNIO" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MD5Util_testMD5 - 2018.08.21 at 15h 30m 48s.xml">
+      <configuration name="MD5Util.testMD5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MD5Util_testMD5 - 2018.08.21 at 15h 32m 26s.xml">
+      <configuration name="MD5Util.testMD5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MD5Util_testEncoding - 2018.08.21 at 15h 50m 26s.xml">
+      <configuration name="MD5Util.testEncoding" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,54 +518,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-233" y="335" width="1934" height="1044" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.3293348" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3923241" side_tool="true" visible="true" weight="0.28353328" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6076759" visible="true" weight="0.28353328" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" weight="0.21919303" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49626866" weight="0.22682661" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3642312" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1821156" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16044776" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1995638" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28026173" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17022412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49946696" weight="0.1995638" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -483,13 +558,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java</url>
-          <line>75</line>
+          <line>73</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java</url>
-          <line>97</line>
+          <line>95</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -502,228 +577,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/thread/TheadDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ThreadDeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/observerJdk/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ticket/NOTE.TXT">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="86" selection-start-line="9" selection-start-column="86" selection-end-line="9" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Java事件处理机制 - 事件监听器的四种实现方式/InnerClassEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Java事件处理机制 - 事件监听器的四种实现方式/OuterClassEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Java事件处理机制 - 事件监听器的四种实现方式/ThisClassEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-159" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Java事件处理机制 - 事件监听器的四种实现方式/AnonymousClassEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/src/libs/rxjava-2.0.3.jar!/io/reactivex/ObservableOnSubscribe.class" />
-    <entry file="file://$PROJECT_DIR$/src/net/javaip.java" />
-    <entry file="jar://$USER_HOME$/.ideaLibSources/rxjava-2.0.3-sources.jar!/io/reactivex/ObservableOnSubscribe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaDemeAll.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
-          <folding>
-            <element signature="e#5937#5938#0" expanded="true" />
-            <element signature="e#5967#5968#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/TimeUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/timer/TimerTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/timer/TimerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/server/client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/server/WriteHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="44" column="82" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/client/ReadHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1971">
-          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="197" column="11" selection-start-line="197" selection-start-column="11" selection-end-line="197" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RxJava2/RxJavaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1039">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/client/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/client/WriteHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/channels/AsynchronousServerSocketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="162" column="50" selection-start-line="162" selection-start-column="50" selection-end-line="162" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/channels/AsynchronousSocketChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="415" column="26" selection-start-line="415" selection-start-column="26" selection-end-line="415" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/server/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/server/AsyncServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="58" column="39" lean-forward="true" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/server/ReadHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/TheadDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ThreadDeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-477">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/TheadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/ticket/TicketRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -742,9 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="58" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3103">
           <caret line="129" column="64" selection-start-line="129" selection-start-column="64" selection-end-line="129" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,21 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3473#3474#0" expanded="true" />
-            <element signature="e#3550#3551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nioTest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -826,58 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/java/GF2Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="44" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/java/GF1Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/java/GF3Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/java/observerJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/java/subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,23 +665,254 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nioTest/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nioTest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nioTest/ObserverData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nioTest/ObserverDataOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/Jtree/JtreeTest.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46170">
+          <caret line="1806" column="18" selection-start-line="1806" selection-start-column="18" selection-end-line="1806" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/tree/DefaultMutableTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/java/GF3Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/java/GF2Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/java/GF1Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/java/observerJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/TestList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="19" column="83" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/TestIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="87" column="37" selection-start-line="80" selection-end-line="87" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/TestCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/java/subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/tree/DefaultTreeModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/Jtree/Trees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1208">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/netty-3.10.5.Final-sources.jar!/org/jboss/netty/channel/SimpleChannelHandler.java" />
     <entry file="file://$PROJECT_DIR$/src/nioTest/TestNonBlockingNIO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1723">
-          <caret line="129" column="17" lean-forward="true" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+        <state relative-caret-position="-479">
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2694#2953#0" expanded="true" />
-            <element signature="e#2952#2953#0" expanded="true" />
-            <element signature="e#3261#3262#0" expanded="true" />
-            <element signature="e#3280#3281#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChatRoomDemo/server/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NIOTest2/Server/HelloHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/NIOTest2/Server/Server.java" />
+    <entry file="file://$PROJECT_DIR$/src/ChatRoomDemo/client/SetNameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChatRoomDemo/client/ChatFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChatRoomDemo/client/ClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nettyStudy/server/ServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nettyStudy/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/lib/logback-classic-1.2.1-sources.jar!/ch/qos/logback/classic/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logback/logback.java" />
+    <entry file="file://$PROJECT_DIR$/src/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JFileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="153" column="28" selection-start-line="153" selection-start-column="28" selection-end-line="153" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swing/Jtree/Chooser/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/GlobalExceptionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/LogTest/LogTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/encryption/MD5/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3456">
+          <caret line="133" column="30" selection-start-line="133" selection-start-column="30" selection-end-line="133" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serial/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serial/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
