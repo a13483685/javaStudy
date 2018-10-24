@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.10 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/logback-access-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/logback-classic-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/logback-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/netty-all-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/reactive-streams-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/rxjava-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-api-1.7.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/logback-access-1.2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/logback-classic-1.2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/logback-core-1.2.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/netty-all-5.0.0.Alpha2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
