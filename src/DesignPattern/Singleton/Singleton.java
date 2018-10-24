@@ -1,5 +1,5 @@
-package DesignPattern;
-//单例模式，如果不用同步代码块 那么有可能出现线程安全问题，同一个时刻，只会有一个对象呗访问
+package DesignPattern.Singleton;
+//锟斤拷锟斤拷模式锟斤拷锟斤拷锟斤拷锟斤拷锟酵拷锟斤拷锟斤拷锟斤拷 锟斤拷么锟叫匡拷锟杰筹拷锟斤拷锟竭程帮拷全锟斤拷锟解，同一锟斤拷时锟教ｏ拷只锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷锟铰凤拷锟斤拷
 class Singleton {
     private static Singleton singleton = null;
     private Singleton(){
