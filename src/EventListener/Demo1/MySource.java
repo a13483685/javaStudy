@@ -26,6 +26,4 @@ public class MySource {
             l.enventChanged(e);
         }
     }
-
-
 }
