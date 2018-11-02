@@ -3,6 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/Collection/TestCollection.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/swing/Jtree/Trees.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/thread/ticket/TicketRunnable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/thread/ticket/TicketRunnable.java" charset="UTF-8" />
   </component>
 </project>
